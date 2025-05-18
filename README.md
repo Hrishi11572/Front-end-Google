@@ -1,4 +1,5 @@
-Hello, this is the assignment of CS50's Web Development Course out there on Youtube.
+Hello, this is the assignment of CS50's Web Development Course out there on Youtube. <br>
+It allows the user to search in the input box and directs them to www.google.com
 
 Here is the output of the code - 
 
